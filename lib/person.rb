@@ -65,3 +65,10 @@ class Person
     end
   end
 end
+
+
+person = Person.new("John")
+puts person.name
+puts person.bank_account
+puts person.happiness
+puts person.hygiene
